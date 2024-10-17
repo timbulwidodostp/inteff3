@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'inteff3': Compute partial effects in a probit or logit model with a triple dummy variable interaction term Use inteff3 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f inteff3.ado
+f inteff3.hlp
