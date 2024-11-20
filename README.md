@@ -1,6 +1,8 @@
 # inteff3
 Compute partial effects in a probit or logit model with a triple dummy variable interaction term Use inteff3 With STATA 18
 
+https://www.youtube.com/watch?v=EB190Np3HF8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
